@@ -4,7 +4,6 @@ source ~/.bashrc
 source ~/.profile
 export LC_ALL=C
 export USE_CCACHE=1
-export CCACHE_DIR="$HOME/.ccache"
 export ARCH="arm64"
 export KBUILD_BUILD_HOST="kubuntu"
 export KBUILD_BUILD_USER="weaponmasterjax"
